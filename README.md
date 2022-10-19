@@ -1,7 +1,7 @@
-👋 Hey, I’m @mrmijus
-👀 I’m a backend developer
-:snake: I’m currently working in Python
-🌱 Intereseted in learning Vue, Go, and Rust
+👋 Hey, I’m @mrmijus <br>
+👀 I’m a backend developer <br>
+:snake: I’m currently working in Python <br>
+🌱 Intereseted in learning Vue, Go, and Rust <br>
 
 
 <!---
