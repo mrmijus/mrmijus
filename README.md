@@ -1,10 +1,1 @@
-👋 Hey, I’m @mrmijus <br>
-👀 I’m a backend developer <br>
-:snake: I’m currently working in Python <br>
-🌱 Intereseted in learning Vue, Go, and Rust <br>
-
-
-<!---
-mrmijus/mrmijus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img width="926" alt="image" src="https://user-images.githubusercontent.com/58333967/236456406-154f1d98-2944-4d29-9520-b7d3625f93b1.png">
